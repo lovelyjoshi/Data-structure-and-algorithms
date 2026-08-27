@@ -3,7 +3,7 @@ int countNodes()
 {
     int count = 0;
     node *temp = head;
-
+//condition
     while (temp != NULL)
     {
         count++;
