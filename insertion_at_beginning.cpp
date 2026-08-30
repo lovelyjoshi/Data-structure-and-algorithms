@@ -1,3 +1,4 @@
+//insert node at the beginning of list
 void insertatfront(int value)
 {
     node *newnode=new node;
