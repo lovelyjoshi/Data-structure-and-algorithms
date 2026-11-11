@@ -14,7 +14,7 @@ class Linkedlist{
         head=NULL;
     }
     void insert(int value)
-    {
+{
         node *newnode = new node;
         newnode ->data = value;
         newnode ->next = NULL;
