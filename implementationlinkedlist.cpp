@@ -31,7 +31,7 @@ class Linkedlist{
             }
             temp->next=newnode;
         }
-    }
+}
     
 
 //display linked list
